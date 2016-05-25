@@ -1,6 +1,3 @@
-# Ezmoney
-SFAPP
-I like animals
 package com.lockscreen;
 import receiver.lockScreenReeiver;
 import android.app.Activity;
